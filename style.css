@@ -11,10 +11,10 @@ body {
     /* Customize */
 
     /* background-image: url("path/to/image") */
-    background-image: url("images/01.jpg");
+    background-image: url("images/stardew.jpg");
 
     /* color: your color */
-    color: #fff;
+    color: #ECF0C1;
 
     /* font-family: 'your font' */
     font-family: 'recursive';
@@ -22,7 +22,7 @@ body {
 
 .content {
     background: rgba(0, 0, 0, 0.3);
-    backdrop-filter: blur(3px);
+    backdrop-filter: blur(20px);
     border-radius: 10px; 
 }
 
