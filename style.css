@@ -11,7 +11,7 @@ body {
     /* Customize */
 
     /* background-image: url("path/to/image") */
-    background-image: url("images/stardew.jpg");
+    background-image: url("images/02.jpg");
 
     /* color: your color */
     color: #ECF0C1;
@@ -22,7 +22,7 @@ body {
 
 .content {
     background: rgba(0, 0, 0, 0.3);
-    backdrop-filter: blur(20px);
+    backdrop-filter: blur(30px);
     border-radius: 10px; 
 }
 
