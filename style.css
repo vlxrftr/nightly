@@ -1,3 +1,7 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap');
+</style>
+
 body {
     margin: 0%;
     padding: 0%;
@@ -17,7 +21,7 @@ body {
     color: #A9A9E0;
 
     /* font-family: 'your font' */
-    font-family: 'fira code';
+    font-family: 'Fira Code', monospace;
 }
 
 .content {
